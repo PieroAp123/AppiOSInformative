@@ -1,0 +1,18 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "0BM-Dn-AS6.text" : {
+      "comment" : "Class = \"UILabel\"; text = \"HSE\"; ObjectID = \"0BM-Dn-AS6\";",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "HSE"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}
